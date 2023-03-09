@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "mos_sym")(type "KiCad")(uri "M:/DIY CPU/PCB/logical gate/mos_sym.kicad_sym")(options "")(descr ""))
+)
